@@ -155,6 +155,7 @@ type: project
 
 - 联系作者（见下方联系方式）
 <img width="430" height="430" alt="7d3b2ae9c79980f62fe95f7cadf60122" src="https://github.com/user-attachments/assets/788b9c91-dbf3-425e-a411-614ef9a376bc" />
+
 - 激活码有效期 7 天，到期可续期
 
 如果你在使用中遇到问题或有功能建议，欢迎通过 GitHub Issue 反馈。
